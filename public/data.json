@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "title": "Login issue",
+    "description": "Customer is unable to log in to their account using the correct email and password.",
+    "customer": "Sarah Johnson",
+    "priority": "High Priority",
+    "status": "Open",
+    "createdAt": "2026-09-14",
+    "ticketNum": "#A3F21C"
+  },
+  {
+    "id": 2,
+    "title": "Payment failed",
+    "description": "The customer tried to make a payment but the transaction failed unexpectedly.",
+    "customer": "Michael Smith",
+    "priority": "High Priority",
+    "status": "In Progress",
+    "createdAt": "2026-09-13",
+    "ticketNum": "#7B9E42"
+  },
+  {
+    "id": 3,
+    "title": "Unable to reset password",
+    "description": "Customer requested a password reset but did not receive the reset email.",
+    "customer": "Emily Davis",
+    "priority": "Medium Priority",
+    "status": "Open",
+    "createdAt": "2026-09-13",
+    "ticketNum": "#D81A6F"
+  },
+  {
+    "id": 4,
+    "title": "Account verification problem",
+    "description": "Customer cannot complete the account verification process.",
+    "customer": "David Wilson",
+    "priority": "Medium Priority",
+    "status": "Open",
+    "createdAt": "2026-09-12",
+    "ticketNum": "#4C92B7"
+  },
+  {
+    "id": 5,
+    "title": "Refund not received",
+    "description": "Customer requested a refund several days ago but has not received the money yet.",
+    "customer": "Jessica Brown",
+    "priority": "High Priority",
+    "status": "In Progress",
+    "createdAt": "2026-09-12",
+    "ticketNum": "#F35D18"
+  },
+  {
+    "id": 6,
+    "title": "Profile update issue",
+    "description": "Customer is unable to update their phone number and address from the profile settings.",
+    "customer": "Daniel Miller",
+    "priority": "Low Priority",
+    "status": "Open",
+    "createdAt": "2026-09-11",
+    "ticketNum": "#82AC91"
+  },
+  {
+    "id": 7,
+    "title": "Order status not updated",
+    "description": "The order has already been delivered but the status still shows as processing.",
+    "customer": "Olivia Taylor",
+    "priority": "Medium Priority",
+    "status": "Resolved",
+    "createdAt": "2026-09-11",
+    "ticketNum": "#E74B3D"
+  },
+  {
+    "id": 8,
+    "title": "Website loading slowly",
+    "description": "Customer reports that several pages are taking too long to load.",
+    "customer": "James Anderson",
+    "priority": "Low Priority",
+    "status": "Open",
+    "createdAt": "2026-09-10",
+    "ticketNum": "#19F6A2"
+  },
+  {
+    "id": 9,
+    "title": "Incorrect billing amount",
+    "description": "Customer was charged a different amount than the price shown during checkout.",
+    "customer": "Sophia Martinez",
+    "priority": "High Priority",
+    "status": "In Progress",
+    "createdAt": "2026-09-10",
+    "ticketNum": "#C48D57"
+  },
+  {
+    "id": 10,
+    "title": "Email notification not received",
+    "description": "Customer is not receiving important email notifications from the system.",
+    "customer": "William Garcia",
+    "priority": "Medium Priority",
+    "status": "Open",
+    "createdAt": "2026-09-09",
+    "ticketNum": "#6E21B9"
+  },
+  {
+    "id": 11,
+    "title": "Mobile app crashing",
+    "description": "The mobile application closes unexpectedly when the customer opens the dashboard.",
+    "customer": "Ava Rodriguez",
+    "priority": "High Priority",
+    "status": "Open",
+    "createdAt": "2026-09-09",
+    "ticketNum": "#B7F034"
+  },
+  {
+    "id": 12,
+    "title": "Subscription cancellation issue",
+    "description": "Customer is unable to cancel their current subscription from the account settings.",
+    "customer": "Ethan Martinez",
+    "priority": "Medium Priority",
+    "status": "Resolved",
+    "createdAt": "2026-09-08",
+    "ticketNum": "#35CA8E"
+  },
+  {
+    "id": 13,
+    "title": "Missing order item",
+    "description": "One item from the customer's order was missing from the delivered package.",
+    "customer": "Mia Hernandez",
+    "priority": "High Priority",
+    "status": "In Progress",
+    "createdAt": "2026-09-08",
+    "ticketNum": "#91D46B"
+  },
+  {
+    "id": 14,
+    "title": "Dark mode not working",
+    "description": "Customer reports that the dark mode option does not apply correctly across the website.",
+    "customer": "Alexander Lopez",
+    "priority": "Low Priority",
+    "status": "Open",
+    "createdAt": "2026-09-07",
+    "ticketNum": "#FA7281"
+  },
+  {
+    "id": 15,
+    "title": "Two-factor authentication issue",
+    "description": "Customer cannot receive the verification code required for two-factor authentication.",
+    "customer": "Isabella Gonzalez",
+    "priority": "High Priority",
+    "status": "Open",
+    "createdAt": "2026-09-07",
+    "ticketNum": "#5C3E97"
+  }
+]
