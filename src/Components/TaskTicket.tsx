@@ -14,7 +14,7 @@ interface TaskTicketProp {
     resolvedTicket: TicketType[],
     setResolvedTicket: Dispatch<SetStateAction<TicketType[]>>
 }
-const TaskTicket = ({ tickets, ticketCard, setTicketCard, resolved, setResolved, progress, setProgress, resolvedTicket, setResolvedTicket }: TaskTicketProp) => {
+const TaskTicket = ({ ticketCard, setTicketCard, setResolved, setProgress, resolvedTicket, setResolvedTicket }: TaskTicketProp) => {
     const removeBtn = (id: number) => {
         const selectedTicket = ticketCard.find(ticket => ticket.id === id)
         if (!selectedTicket) return;

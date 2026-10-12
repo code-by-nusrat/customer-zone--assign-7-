@@ -10,7 +10,7 @@ interface TicketProp {
     ticketCard:TicketType[],
     setTicketCard:Dispatch<SetStateAction<TicketType[]>>
 }
-const TicketCard = ({ ticket,progress, setProgress,ticketCard,setTicketCard,resolvedTicket,setResolvedTicket}: TicketProp) => {
+const TicketCard = ({ ticket, setProgress, setTicketCard }: TicketProp) => {
     const progressCount =()=>{
       setProgress(prev=>prev +1)
      toast.success("Ticket added successfully!");

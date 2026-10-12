@@ -28,7 +28,7 @@ const [resolvedTicket,setResolvedTicket]=useState<TicketType[]>([])
   return (
     <>
       <Navbar></Navbar>
-      <Banner progress={progress} setProgress={setProgress} resolved={resolved} setResolved={setResolved}></Banner>
+      <Banner progress={progress} resolved={resolved}></Banner>
       <Suspense fallback={<h1>Loading...</h1>}>
         <AllTicket progress={progress} setProgress={setProgress} resolved={resolved} setResolved={setResolved} ticketPromise={ticketPromise} ticketCard={ticketCard} setTicketCard={setTicketCard} resolvedTicket={resolvedTicket} setResolvedTicket={setResolvedTicket}></AllTicket>
       </Suspense>
